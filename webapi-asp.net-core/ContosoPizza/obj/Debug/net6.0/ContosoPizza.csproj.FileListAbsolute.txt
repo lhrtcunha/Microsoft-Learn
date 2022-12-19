@@ -4,7 +4,6 @@
 /home/lhrtcunha/Projetos/Microsoft-Learn/webapi-asp.net-core/ContosoPizza/bin/Debug/net6.0/ContosoPizza.deps.json
 /home/lhrtcunha/Projetos/Microsoft-Learn/webapi-asp.net-core/ContosoPizza/bin/Debug/net6.0/ContosoPizza.runtimeconfig.json
 /home/lhrtcunha/Projetos/Microsoft-Learn/webapi-asp.net-core/ContosoPizza/bin/Debug/net6.0/ContosoPizza.dll
-/home/lhrtcunha/Projetos/Microsoft-Learn/webapi-asp.net-core/ContosoPizza/bin/Debug/net6.0/ref/ContosoPizza.dll
 /home/lhrtcunha/Projetos/Microsoft-Learn/webapi-asp.net-core/ContosoPizza/bin/Debug/net6.0/ContosoPizza.pdb
 /home/lhrtcunha/Projetos/Microsoft-Learn/webapi-asp.net-core/ContosoPizza/bin/Debug/net6.0/Microsoft.OpenApi.dll
 /home/lhrtcunha/Projetos/Microsoft-Learn/webapi-asp.net-core/ContosoPizza/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
@@ -25,3 +24,4 @@
 /home/lhrtcunha/Projetos/Microsoft-Learn/webapi-asp.net-core/ContosoPizza/obj/Debug/net6.0/ref/ContosoPizza.dll
 /home/lhrtcunha/Projetos/Microsoft-Learn/webapi-asp.net-core/ContosoPizza/obj/Debug/net6.0/ContosoPizza.pdb
 /home/lhrtcunha/Projetos/Microsoft-Learn/webapi-asp.net-core/ContosoPizza/obj/Debug/net6.0/ContosoPizza.genruntimeconfig.cache
+/home/lhrtcunha/Projetos/Microsoft-Learn/webapi-asp.net-core/ContosoPizza/obj/Debug/net6.0/refint/ContosoPizza.dll
