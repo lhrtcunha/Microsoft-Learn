@@ -12,7 +12,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy(name: MyAllowSpecificOrigins,
                       policy =>
                       {
-                          policy.WithOrigins("http://localhost:5160", "https://localhost:7161")
+                          policy.WithOrigins("http://localhost:5001", "https://localhost:7001")
                                                           .AllowAnyHeader()
                                                           .AllowAnyMethod();
                       });
@@ -22,9 +22,7 @@ builder.Services.AddCors(options =>
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
 var app = builder.Build();
-
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -35,7 +33,6 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-//app.UseCors(option => option.AllowAnyOrigin());
 app.UseCors(MyAllowSpecificOrigins);
 
 app.UseAuthorization();
